@@ -9,5 +9,7 @@
 ## 個人結果
 
 ![alt text](result/Category_individual.png)
-s
+
 ![alt text](result/Score_individual.png)
+
+Web問題でのアプローチについての知識不足が課題
